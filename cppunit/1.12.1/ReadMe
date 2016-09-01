@@ -27,6 +27,4 @@ https://answers.launchpad.net/ubuntu/+source/cppunit/+question/174811
 include folder contains all the header files.
 lib folder contains the .so file
 
-Note: you can rename those folder as necessary, e.g. "include" to be "inc" but please don't rename anything inside. 
-
 The folder structure and content (as shipped with this ReadMe) are the result of the steps above.
