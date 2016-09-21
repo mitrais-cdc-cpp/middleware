@@ -1,0 +1,12 @@
+#INCLUDES LINUX
+
+boost/1.61.0
+cppunit/1.12.1
+curl/7.50.1
+gtk/3.20.6
+odb-mssql/2.4.0
+odb/2.4.0
+poco/1.7.3
+snmp++/3.3.7
+unix-odbc/2.3.4
+urdl/0.1
