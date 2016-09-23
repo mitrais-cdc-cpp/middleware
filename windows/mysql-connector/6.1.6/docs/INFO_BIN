@@ -5,28 +5,28 @@ Build was done on  Windows-6.0 using x86
 Build was done using cmake 2.8.10 
 
 ===== Compiler / generator used: =====
-Visual Studio 10 Win64
+Visual Studio 10
 
-Pointer size: 8
+Pointer size: 4
 
 ===== Feature flags used: =====
 -- Cache values
 CANDLE_EXECUTABLE:FILEPATH=C:/Program Files (x86)/Windows Installer XML v3.5/bin/candle.exe
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files/LibMySQL
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/LibMySQL
 COMMUNITY_BUILD:BOOL=ON
 DEBUG_EXTNAME:BOOL=ON
 ENABLED_PROFILING:BOOL=ON
 ENABLE_DEBUG_SYNC:BOOL=ON
 ENABLE_GCOV:BOOL=OFF
 ENABLE_GPROF:BOOL=OFF
-EXTRA_INSTALL:BOOL=G:\ade\build\sb_0-14542007-1424903312.46/mysql-connector-c-6.1.6-vs11-winx64/lib/mysqlclient.liblib/vs11DevelopmentG:\ade\build\sb_0-14542007-1424903312.46/mysql-connector-c-6.1.6-vs12-winx64/lib/mysqlclient.liblib/vs12Development
+EXTRA_INSTALL:BOOL=G:\ade\build\sb_0-14542007-1424902631.32/mysql-connector-c-6.1.6-vs11-win32/lib/mysqlclient.liblib/vs11DevelopmentG:\ade\build\sb_0-14542007-1424902631.32/mysql-connector-c-6.1.6-vs12-win32/lib/mysqlclient.liblib/vs12Development
 FEATURE_SET:STRING=community
 HEAT_EXECUTABLE:FILEPATH=C:/Program Files (x86)/Windows Installer XML v3.5/bin/heat.exe
 INSTALL_LAYOUT:STRING=STANDALONE
 LIGHT_EXECUTABLE:FILEPATH=C:/Program Files (x86)/Windows Installer XML v3.5/bin/light.exe
 MYSQL_DATADIR:PATH=C:/Program Files/MySQL/MySQL Server 6.1/data
 MYSQL_MAINTAINER_MODE:BOOL=OFF
-PKG_INSTALL_PREFIX:PATH=C:/Program Files/LibMySQL
+PKG_INSTALL_PREFIX:PATH=C:/Program Files (x86)/LibMySQL
 TMPDIR:PATH=P_tmpdir
 WITH_ARCHIVE_STORAGE_ENGINE:BOOL=ON
 WITH_ASAN:BOOL=OFF
