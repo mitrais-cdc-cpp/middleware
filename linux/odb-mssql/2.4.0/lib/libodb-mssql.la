@@ -17,7 +17,7 @@ old_library='libodb-mssql.a'
 inherited_linker_flags=' -pthread'
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/home/developer/git/middleware/linux/unix-odbc/2.3.4/lib/ -lodb /home/developer/git/middleware/linux/unix-odbc/2.3.4/lib/libodbc.la /usr/lib/x86_64-linux-gnu/libltdl.la -ldl -lpthread'
+dependency_libs=' -L/home/developer/git/middleware/linux/unix-odbc/2.3.1/ -lodb /home/developer/git/middleware/linux/unix-odbc/2.3.1/libodbc.la /usr/lib/x86_64-linux-gnu/libltdl.la -ldl -lpthread'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
